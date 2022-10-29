@@ -27,8 +27,8 @@ global.botname = 'SAN XD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'SAN XD' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6282114680993']
-global.premium = ['6282114680993']
+global.owner = ['6282114680993'6289630969335']
+global.premium = ['6282114680993'6289630969335']
 global.packname = 'SAN XD'
 global.ownerr = ['SAN XD']
 global.author = 'SAN XD'
